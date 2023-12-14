@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688176379115",
+    "project_id": "tusplanner",
+    "storage_bucket": "tusplanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688176379115:android:6a312ad1401da599d83aae",
+        "android_client_info": {
+          "package_name": "com.laimis.tusplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMLu8tUNVBb1wXGD9g-ZuYSQ8n5Sf6EBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688176379115:android:747b2778427dbf96d83aae",
+        "android_client_info": {
+          "package_name": "com.tus.tusplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMLu8tUNVBb1wXGD9g-ZuYSQ8n5Sf6EBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
